@@ -3,6 +3,7 @@
 
 _Note: color list:_
 ```
+general
 3F3F3F -> 1F1F1F
 FFCFAF -> FF9980
 DFC47D -> FEB183
@@ -12,6 +13,10 @@ CC9393 -> DC8383
 9F9D6D -> 808040
 C89191 -> DC8383
 DCA3A3 -> DC8383
+E3CEAB -> FEB183
+diff only
+CFBFAF -> FF0000
+FEB183 -> 00FF40
 ```
 
 Result:
