@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--
-File name:           Zenburn.xml
-Style Name:          Zenburn
-Description:         Zenburn-like style for Notepad++.
+File name:           Zenburn_Darker.xml
+Style Name:          Zenburn Darker
+Description:         Zenburn-like style for Notepad++ but darker.
                      Inspired by the original Zenburn colorscheme for Vim by Jani Nurminen.
                      Official Vim Zenburn home page: http://kippura.org/zenburnpage/
 Supported languages: All the languages supported by release 7.7
 Created by:          Jani KesÃÂÃÂ¤nen (jani dot kesanen gmail com)
+Modded by:           martysama0134
 Released:            25.06.2019
 License:             GPL2
 					 2023-09-30: update Perl support.
