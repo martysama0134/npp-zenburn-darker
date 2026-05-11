@@ -446,8 +446,8 @@ License:             GPL2
             <WordsStyle name="COMMAND" styleID="2" fgColor="DBDBBC" bgColor="1F1F1F" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="HEADER" styleID="3" fgColor="DEDEBE" bgColor="1F1F1F" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="POSITION" styleID="4" fgColor="FDCEAE" bgColor="1F1F1F" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="DELETED" styleID="5" fgColor="00FF40" bgColor="1F1F1F" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="ADDED" styleID="6" fgColor="FF0000" bgColor="1F1F1F" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DELETED" styleID="5" fgColor="FF0000" bgColor="1F1F1F" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="ADDED" styleID="6" fgColor="00FF40" bgColor="1F1F1F" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="erlang" desc="Erlang" ext="">
             <WordsStyle name="DEFAULT STYLE" styleID="0" fgColor="DCDCCC" bgColor="1F1F1F" fontName="" fontStyle="0" fontSize="" />

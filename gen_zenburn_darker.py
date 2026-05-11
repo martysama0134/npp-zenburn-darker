@@ -46,8 +46,8 @@ COLOR_MAP = {
 # Keyed by (LexerType name, WordsStyle name) to avoid the problem of
 # re.sub not reprocessing its own replacement output.
 FG_OVERRIDES: dict[tuple[str, str], str] = {
-    ("diff", "ADDED"): "FF0000",
-    ("diff", "DELETED"): "00FF40",
+    ("diff", "ADDED"): "00FF40",
+    ("diff", "DELETED"): "FF0000",
 }
 
 HEX_RE = re.compile(r"[0-9A-Fa-f]{6}")
